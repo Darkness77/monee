@@ -1,4 +1,4 @@
-**amazon-web-scraper
+# amazon-web-scraper
 
 This project is a Python script that scrapes www.amazon.com and helps the user find the best deals. To run this script, you will need to have the following packages installed: bs4, requests, smtplib, and email.message. Installation To install the required packages, open your terminal and type the following command: pip install bs4 requests smtplib email
 
